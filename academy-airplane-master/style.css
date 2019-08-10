@@ -1,0 +1,32 @@
+#ocean {
+    background-image: url("img/ocean_3.jpg");
+    width: 900px;
+    height: 700px;
+    
+
+}
+
+.player {
+    position: absolute;
+    background-image: url("img/jet_fighter.png");
+    width: 80px;
+    height: 115px;
+}
+
+.enemy {
+    position: absolute;
+    background-image: url("img/enemy_jet_red.png");
+    width: 80px;
+    height: 100px;
+}
+
+.missile {
+    position: absolute;
+    background-image: url("img/missile_small.png");
+    /* background-color: greenyellow; */
+    width: 20px;
+    height: 40px;
+
+
+
+}    
